@@ -1,0 +1,11 @@
+#install newspaper3k
+pip3 install newspaper3k
+
+#installing Spacy
+pip3 install -U spacy
+
+#installing en_core_web_sm
+python3 -m spacy download en_core_web_sm
+
+#installing Sklearn
+pip3 instal sklearn
